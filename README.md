@@ -11,6 +11,8 @@ Guia rapida para configuracion e instalacion de plugins para visual studio code
 ## Instalacion de un plugin
 
 Para instalar cualquier plugin podemos hacerlo directamente desde **VsCode**; para ello nos dirigimos a la parte lateral derecha como se muestra en la **fig. 1**.
+
+![Panel izquierdo VScode](https://github.com/crisdiab/visual-studio-code-plugins/blob/master/imagenes/figura1.png)
 ___
 
 ## Plugins
