@@ -21,7 +21,8 @@ Aparecera la siguiente imagen al lado derecho le la barra, en la cual simplement
 ![Filtro plugins VScode](https://github.com/crisdiab/visual-studio-code-plugins/blob/master/imagenes/figura2.png)
 **fig2.- Filtro plugins VScode**
 
-Posteriormente damos click en el complemento el cual nos desplegara otra pantalla, en la que nos indicara las 
+Posteriormente damos click en el complemento el cual nos desplegara otra pestaña en el editor, en la que nos indicara las caracteristicas del plugin, como detalles, contribuciones entre otras cosas.
+Finalmente damos en instalar, cuando finalice le damos recargar.
 ___
 
 ## Plugins
@@ -30,7 +31,23 @@ A continuacion se detallan los mejores plugins que se recomiendan para **MARKDOW
 * Markdown All in One
 
 ### Temas VS
+* Winter is comming by Jhon Papa
+  
+  Si se desea ver mas especificaciones, para customizarlo click en el enlace. Se recomienda usar las configuraciones por defecto.
+  [Winter is Coming (Dark)](https://github.com/johnpapa/vscode-winteriscoming)  
 ### Angular
-### Html
+* angular2-switcher
+  Permite cambiar entre archivos ts, html, css
+* TSLint
+* angular2-inline
+* Angular 6 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout mas info [aqui](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+* Path Intellisense
+* IntelliSense for CSS class names in HTML
+
+### Docker
+* Docker 
+
+## Licencia
 ___
+MIT
 
