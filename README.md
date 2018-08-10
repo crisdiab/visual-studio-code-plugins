@@ -36,8 +36,7 @@ A continuacion se detallan los mejores plugins que se recomiendan para **MARKDOW
   Si se desea ver mas especificaciones, para customizarlo click en el enlace. Se recomienda usar las configuraciones por defecto.
   [Winter is Coming (Dark)](https://github.com/johnpapa/vscode-winteriscoming)  
 ### Angular
-* angular2-switcher
-  Permite cambiar entre archivos ts, html, css
+* Angular Language Service
 * TSLint
 * angular2-inline
 * Angular 6 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout mas info [aqui](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
