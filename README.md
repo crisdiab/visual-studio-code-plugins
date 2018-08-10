@@ -45,7 +45,8 @@ A continuacion se detallan los mejores plugins que se recomiendan para **MARKDOW
 * IntelliSense for CSS class names in HTML
 
 ### Docker
-* Docker 
+* Docker
+  Para conocer como usar click [Aqui](https://code.visualstudio.com/docs/azure/docker)
 
 ## Licencia
 ___
