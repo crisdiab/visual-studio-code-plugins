@@ -42,6 +42,9 @@ A continuacion se detallan los mejores plugins que se recomiendan para **MARKDOW
 * Angular 6 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout mas info [aqui](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 * Path Intellisense
 * IntelliSense for CSS class names in HTML
+* Bracket Pair Colorizer
+* vscode-icons
+
 
 ### Docker
 * Docker
